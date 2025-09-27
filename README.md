@@ -1,1 +1,1 @@
-# eplantsShopping
+# coding-project-template
